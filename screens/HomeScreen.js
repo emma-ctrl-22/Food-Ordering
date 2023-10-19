@@ -34,7 +34,7 @@ const HomeScreen = () => {
           <View style={{flexDirection:'row',flex:1,backgroundColor:"#c5c6d0",height:43,borderRadius:2,alignItems:'center',gap:6,paddingLeft:13}}>
             <MagnifyingGlassIcon color='grey' size={20}/>
            <TextInput 
-           placeholder="Restaurants and cuisine"/>
+           placeholder="Products "/>
           </View>
           <AdjustmentsVerticalIcon color='dodgerblue'/>
         </View>
