@@ -22,9 +22,9 @@ const FeaturedRow = ({title,description,id}) => {
         title="Bediako Shop" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
         
         <RestaurantCards 
-        id={1}rating={4.5}genre="Ghanaian"address="34 oxford st"
-        short_description="test description"dishes={{}}long={20}lat={5}
-        title="Naa's Kitchen" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
+        id={1}rating={4.5}genre="Groceries "address=" JJ NORTEY"
+        short_description="Buy your regular groceries here"dishes={{}}long={20}lat={5}
+        title="JJ NORTEY SHOP" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
 
         <RestaurantCards 
         id={1}rating={4.5}genre="Ghanaian"address="34 oxford st"
