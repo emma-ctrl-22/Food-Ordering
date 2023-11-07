@@ -27,9 +27,9 @@ const FeaturedRow = ({title,description,id}) => {
         title="JJ NORTEY SHOP" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
 
         <RestaurantCards 
-        id={1}rating={4.5}genre="Ghanaian"address="34 oxford st"
-        short_description="test description"dishes={{}}long={20}lat={5}
-        title="Naa's Kitchen" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
+        id={1}rating={4.5}genre="Food"address="Seth Laryea Hall"
+        short_description="buy both vegetarian and non vegetarian dishes here"dishes={{}}long={20}lat={5}
+        title="VVU CAFETERÍA " imgUrl="https://deepcaves.world/images/studio1.jpg"/>
 
         <RestaurantCards 
         id={1}rating={4.5}genre="Ghanaian"address="34 oxford st"
