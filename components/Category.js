@@ -15,8 +15,8 @@ export default function Category() {
       <CateoryCard title="Local foods" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
       <CateoryCard title="Fast Food" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
       <CateoryCard title="Daavi's Special" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
-      <CateoryCard title="testing" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
-      <CateoryCard title="testing" imgUrl="https://deepcaves.world/images/events-min.jpg"/> 
+      <CateoryCard title="VVU CAFETERIA SPECIAL" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
+      <CateoryCard title="NORTEY PRINTING SERVICES" imgUrl="https://deepcaves.world/images/events-min.jpg"/> 
     </ScrollView>
   )
 }
