@@ -32,9 +32,9 @@ const FeaturedRow = ({title,description,id}) => {
         title="VVU CAFETERÍA " imgUrl="https://deepcaves.world/images/studio1.jpg"/>
 
         <RestaurantCards 
-        id={1}rating={4.5}genre="Ghanaian"address="34 oxford st"
-        short_description="test description"dishes={{}}long={20}lat={5}
-        title="Naa's Kitchen" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
+        id={1}rating={4.5}genre="Groceries "address="VICTORY"
+        short_description="BUY EVERY PROVISION YOU NEED HERE"dishes={{}}long={20}lat={5}
+        title="VICTORY STORE" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
       </ScrollView>
     </View>
   ) 
