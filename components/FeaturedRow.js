@@ -17,9 +17,9 @@ const FeaturedRow = ({title,description,id}) => {
        }}
        style={{}} >
         <RestaurantCards 
-        id={1}rating={4.5}genre="Ghanaian"address="34 oxford st"
+        id={1}rating={4.5}genre="Groceries "address="Bediako"
         short_description="test description"dishes={{}}long={20}lat={5}
-        title="Naa's Kitchen" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
+        title="Bediako Shop" imgUrl="https://deepcaves.world/images/studio1.jpg"/>
         
         <RestaurantCards 
         id={1}rating={4.5}genre="Ghanaian"address="34 oxford st"
