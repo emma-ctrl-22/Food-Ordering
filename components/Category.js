@@ -10,8 +10,8 @@ export default function Category() {
         gap:3
     }}
     showsHorizontalScrollIndicator={false} style={{padding:1,margin:3,width:"98%"}}>
-      <CateoryCard onPress title="testing" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
-      <CateoryCard title="testing" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
+      <CateoryCard onPress title="Snacks" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
+      <CateoryCard title="Groceries " imgUrl="https://deepcaves.world/images/events-min.jpg"/>
       <CateoryCard title="testing" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
       <CateoryCard title="testing" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
       <CateoryCard title="testing" imgUrl="https://deepcaves.world/images/events-min.jpg"/>
